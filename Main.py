@@ -10,7 +10,7 @@ Issue: piedra, papel o tijera
 """
 
 def main():
-    
+    # comentario de prueba para el git hub
     chooseUser = input('\n 1-piedra:\n 2-papel:\n 3-tijera:\n 4-salir:\n');
     while True:
         if chooseUser.isnumeric():
